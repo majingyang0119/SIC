@@ -1,0 +1,3163 @@
+{
+  "duration": 50,
+  "time_constant": 4,
+  "down_threshold": -1.0,
+  "seed": 42,
+  "n_total": 350,
+  "n_close": 210,
+  "n_far": 140,
+  "close_pairs": [
+    {
+      "pair_idx": 1,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[57]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[56]",
+      "sec1_index": 133,
+      "sec2_index": 132,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 2,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[140]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[136]",
+      "sec1_index": 216,
+      "sec2_index": 212,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 3,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[114]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[111]",
+      "sec1_index": 190,
+      "sec2_index": 187,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 4,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[52]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[56]",
+      "sec1_index": 128,
+      "sec2_index": 132,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 5,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[44]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[49]",
+      "sec1_index": 120,
+      "sec2_index": 125,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 6,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[65]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[64]",
+      "sec1_index": 368,
+      "sec2_index": 367,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 7,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[15]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[13]",
+      "sec1_index": 91,
+      "sec2_index": 89,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 8,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[111]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[107]",
+      "sec1_index": 187,
+      "sec2_index": 183,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 9,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[107]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[112]",
+      "sec1_index": 410,
+      "sec2_index": 415,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 10,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[13]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[17]",
+      "sec1_index": 89,
+      "sec2_index": 93,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 11,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[101]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[105]",
+      "sec1_index": 177,
+      "sec2_index": 181,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 12,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[63]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[59]",
+      "sec1_index": 366,
+      "sec2_index": 362,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 13,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[78]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[83]",
+      "sec1_index": 381,
+      "sec2_index": 386,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 14,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[142]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[141]",
+      "sec1_index": 218,
+      "sec2_index": 217,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 15,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[81]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[83]",
+      "sec1_index": 157,
+      "sec2_index": 159,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 16,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[23]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[18]",
+      "sec1_index": 326,
+      "sec2_index": 321,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 17,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[79]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[75]",
+      "sec1_index": 155,
+      "sec2_index": 151,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 18,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[21]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[19]",
+      "sec1_index": 324,
+      "sec2_index": 322,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 19,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[47]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[49]",
+      "sec1_index": 123,
+      "sec2_index": 125,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 20,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[49]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[50]",
+      "sec1_index": 125,
+      "sec2_index": 126,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 21,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[25]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[30]",
+      "sec1_index": 328,
+      "sec2_index": 333,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 22,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[135]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[134]",
+      "sec1_index": 211,
+      "sec2_index": 210,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 23,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[84]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[88]",
+      "sec1_index": 387,
+      "sec2_index": 391,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 24,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[63]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[65]",
+      "sec1_index": 139,
+      "sec2_index": 141,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 25,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[40]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[44]",
+      "sec1_index": 116,
+      "sec2_index": 120,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 26,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[150]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[145]",
+      "sec1_index": 226,
+      "sec2_index": 221,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 27,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[34]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[39]",
+      "sec1_index": 337,
+      "sec2_index": 342,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 28,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[98]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[96]",
+      "sec1_index": 174,
+      "sec2_index": 172,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 29,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[23]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[19]",
+      "sec1_index": 99,
+      "sec2_index": 95,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 30,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[148]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[147]",
+      "sec1_index": 224,
+      "sec2_index": 223,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 31,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[119]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[117]",
+      "sec1_index": 195,
+      "sec2_index": 193,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 32,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[43]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[38]",
+      "sec1_index": 346,
+      "sec2_index": 341,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 33,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[81]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[82]",
+      "sec1_index": 384,
+      "sec2_index": 385,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 34,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[83]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[84]",
+      "sec1_index": 159,
+      "sec2_index": 160,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 35,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[30]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[26]",
+      "sec1_index": 333,
+      "sec2_index": 329,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 36,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[136]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[134]",
+      "sec1_index": 212,
+      "sec2_index": 210,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 37,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[87]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[91]",
+      "sec1_index": 163,
+      "sec2_index": 167,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 38,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[125]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[122]",
+      "sec1_index": 201,
+      "sec2_index": 198,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 39,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[85]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[87]",
+      "sec1_index": 388,
+      "sec2_index": 390,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 40,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[138]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[142]",
+      "sec1_index": 214,
+      "sec2_index": 218,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 41,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[112]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[113]",
+      "sec1_index": 188,
+      "sec2_index": 189,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 42,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[28]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[24]",
+      "sec1_index": 104,
+      "sec2_index": 100,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 43,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[16]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[17]",
+      "sec1_index": 92,
+      "sec2_index": 93,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 44,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[54]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[49]",
+      "sec1_index": 357,
+      "sec2_index": 352,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 45,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[33]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[29]",
+      "sec1_index": 109,
+      "sec2_index": 105,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 46,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[139]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[140]",
+      "sec1_index": 442,
+      "sec2_index": 443,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 47,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[108]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[111]",
+      "sec1_index": 184,
+      "sec2_index": 187,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 48,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[51]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[54]",
+      "sec1_index": 354,
+      "sec2_index": 357,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 49,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[73]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[68]",
+      "sec1_index": 149,
+      "sec2_index": 144,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 50,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[71]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[67]",
+      "sec1_index": 147,
+      "sec2_index": 143,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 51,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[136]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[140]",
+      "sec1_index": 439,
+      "sec2_index": 443,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 52,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[134]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[139]",
+      "sec1_index": 210,
+      "sec2_index": 215,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 53,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[68]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[73]",
+      "sec1_index": 371,
+      "sec2_index": 376,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 54,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[53]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[54]",
+      "sec1_index": 356,
+      "sec2_index": 357,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 55,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[112]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[109]",
+      "sec1_index": 188,
+      "sec2_index": 185,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 56,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[109]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[112]",
+      "sec1_index": 412,
+      "sec2_index": 415,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 57,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[46]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[45]",
+      "sec1_index": 122,
+      "sec2_index": 121,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 58,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[56]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[53]",
+      "sec1_index": 132,
+      "sec2_index": 129,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 59,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[81]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[83]",
+      "sec1_index": 157,
+      "sec2_index": 159,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 60,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[32]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[34]",
+      "sec1_index": 108,
+      "sec2_index": 110,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 61,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[44]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[49]",
+      "sec1_index": 347,
+      "sec2_index": 352,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 62,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[88]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[92]",
+      "sec1_index": 391,
+      "sec2_index": 395,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 63,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[128]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[132]",
+      "sec1_index": 204,
+      "sec2_index": 208,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 64,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[5]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[3]",
+      "sec1_index": 81,
+      "sec2_index": 79,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 65,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[123]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[118]",
+      "sec1_index": 426,
+      "sec2_index": 421,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 66,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[23]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[21]",
+      "sec1_index": 326,
+      "sec2_index": 324,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 67,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[150]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[146]",
+      "sec1_index": 226,
+      "sec2_index": 222,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 68,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[80]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[83]",
+      "sec1_index": 156,
+      "sec2_index": 159,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 69,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[1]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[6]",
+      "sec1_index": 77,
+      "sec2_index": 82,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 70,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[134]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[138]",
+      "sec1_index": 210,
+      "sec2_index": 214,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 71,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[91]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[95]",
+      "sec1_index": 167,
+      "sec2_index": 171,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 72,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[54]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[49]",
+      "sec1_index": 130,
+      "sec2_index": 125,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 73,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[108]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[113]",
+      "sec1_index": 411,
+      "sec2_index": 416,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 74,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[101]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[98]",
+      "sec1_index": 177,
+      "sec2_index": 174,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 75,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[40]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[37]",
+      "sec1_index": 343,
+      "sec2_index": 340,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 76,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[125]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[129]",
+      "sec1_index": 428,
+      "sec2_index": 432,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 77,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[0]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[5]",
+      "sec1_index": 76,
+      "sec2_index": 81,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 78,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[14]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[17]",
+      "sec1_index": 317,
+      "sec2_index": 320,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 79,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[9]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[7]",
+      "sec1_index": 85,
+      "sec2_index": 83,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 80,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[34]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[29]",
+      "sec1_index": 337,
+      "sec2_index": 332,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 81,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[122]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[121]",
+      "sec1_index": 198,
+      "sec2_index": 197,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 82,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[123]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[128]",
+      "sec1_index": 199,
+      "sec2_index": 204,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 83,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[40]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[38]",
+      "sec1_index": 116,
+      "sec2_index": 114,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 84,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[97]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[95]",
+      "sec1_index": 400,
+      "sec2_index": 398,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 85,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[121]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[118]",
+      "sec1_index": 424,
+      "sec2_index": 421,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 86,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[65]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[68]",
+      "sec1_index": 141,
+      "sec2_index": 144,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 87,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[130]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[127]",
+      "sec1_index": 433,
+      "sec2_index": 430,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 88,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[135]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[139]",
+      "sec1_index": 211,
+      "sec2_index": 215,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 89,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[65]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[61]",
+      "sec1_index": 368,
+      "sec2_index": 364,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 90,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[125]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[121]",
+      "sec1_index": 428,
+      "sec2_index": 424,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 91,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[8]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[10]",
+      "sec1_index": 311,
+      "sec2_index": 313,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 92,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[40]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[43]",
+      "sec1_index": 343,
+      "sec2_index": 346,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 93,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[113]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[116]",
+      "sec1_index": 416,
+      "sec2_index": 419,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 94,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[61]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[57]",
+      "sec1_index": 137,
+      "sec2_index": 133,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 95,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[115]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[113]",
+      "sec1_index": 191,
+      "sec2_index": 189,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 96,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[22]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[21]",
+      "sec1_index": 325,
+      "sec2_index": 324,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 97,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[150]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[145]",
+      "sec1_index": 453,
+      "sec2_index": 448,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 98,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[117]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[122]",
+      "sec1_index": 193,
+      "sec2_index": 198,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 99,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[112]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[111]",
+      "sec1_index": 188,
+      "sec2_index": 187,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 100,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[36]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[35]",
+      "sec1_index": 112,
+      "sec2_index": 111,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 101,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[117]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[115]",
+      "sec1_index": 193,
+      "sec2_index": 191,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 102,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[16]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[17]",
+      "sec1_index": 92,
+      "sec2_index": 93,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 103,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[36]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[40]",
+      "sec1_index": 112,
+      "sec2_index": 116,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 104,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[121]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[116]",
+      "sec1_index": 197,
+      "sec2_index": 192,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 105,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[97]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[93]",
+      "sec1_index": 400,
+      "sec2_index": 396,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 106,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[125]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[122]",
+      "sec1_index": 428,
+      "sec2_index": 425,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 107,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[141]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[146]",
+      "sec1_index": 444,
+      "sec2_index": 449,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 108,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[91]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[87]",
+      "sec1_index": 394,
+      "sec2_index": 390,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 109,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[91]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[93]",
+      "sec1_index": 394,
+      "sec2_index": 396,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 110,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[97]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[95]",
+      "sec1_index": 173,
+      "sec2_index": 171,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 111,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[49]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[51]",
+      "sec1_index": 125,
+      "sec2_index": 127,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 112,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[30]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[32]",
+      "sec1_index": 333,
+      "sec2_index": 335,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 113,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[59]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[62]",
+      "sec1_index": 362,
+      "sec2_index": 365,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 114,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[27]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[25]",
+      "sec1_index": 103,
+      "sec2_index": 101,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 115,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[31]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[33]",
+      "sec1_index": 107,
+      "sec2_index": 109,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 116,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[22]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[20]",
+      "sec1_index": 325,
+      "sec2_index": 323,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 117,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[127]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[123]",
+      "sec1_index": 203,
+      "sec2_index": 199,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 118,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[97]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[101]",
+      "sec1_index": 173,
+      "sec2_index": 177,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 119,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[78]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[75]",
+      "sec1_index": 381,
+      "sec2_index": 378,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 120,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[65]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[62]",
+      "sec1_index": 368,
+      "sec2_index": 365,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 121,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[142]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[145]",
+      "sec1_index": 218,
+      "sec2_index": 221,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 122,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[127]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[125]",
+      "sec1_index": 203,
+      "sec2_index": 201,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 123,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[75]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[79]",
+      "sec1_index": 378,
+      "sec2_index": 382,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 124,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[50]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[49]",
+      "sec1_index": 126,
+      "sec2_index": 125,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 125,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[125]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[124]",
+      "sec1_index": 428,
+      "sec2_index": 427,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 126,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[47]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[43]",
+      "sec1_index": 123,
+      "sec2_index": 119,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 127,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[85]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[87]",
+      "sec1_index": 161,
+      "sec2_index": 163,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 128,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[97]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[100]",
+      "sec1_index": 400,
+      "sec2_index": 403,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 129,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[109]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[111]",
+      "sec1_index": 185,
+      "sec2_index": 187,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 130,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[30]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[27]",
+      "sec1_index": 106,
+      "sec2_index": 103,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 131,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[43]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[42]",
+      "sec1_index": 346,
+      "sec2_index": 345,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 132,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[48]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[43]",
+      "sec1_index": 351,
+      "sec2_index": 346,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 133,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[81]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[76]",
+      "sec1_index": 384,
+      "sec2_index": 379,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 134,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[65]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[69]",
+      "sec1_index": 368,
+      "sec2_index": 372,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 135,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[98]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[95]",
+      "sec1_index": 401,
+      "sec2_index": 398,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 136,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[97]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[92]",
+      "sec1_index": 173,
+      "sec2_index": 168,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 137,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[111]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[110]",
+      "sec1_index": 187,
+      "sec2_index": 186,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 138,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[145]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[149]",
+      "sec1_index": 448,
+      "sec2_index": 452,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 139,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[31]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[32]",
+      "sec1_index": 107,
+      "sec2_index": 108,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 140,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[29]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[28]",
+      "sec1_index": 105,
+      "sec2_index": 104,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 141,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[148]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[144]",
+      "sec1_index": 451,
+      "sec2_index": 447,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 142,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[106]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[110]",
+      "sec1_index": 409,
+      "sec2_index": 413,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 143,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[80]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[79]",
+      "sec1_index": 156,
+      "sec2_index": 155,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 144,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[109]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[107]",
+      "sec1_index": 412,
+      "sec2_index": 410,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 145,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[95]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[93]",
+      "sec1_index": 171,
+      "sec2_index": 169,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 146,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[34]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[30]",
+      "sec1_index": 110,
+      "sec2_index": 106,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 147,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[55]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[53]",
+      "sec1_index": 358,
+      "sec2_index": 356,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 148,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[140]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[136]",
+      "sec1_index": 443,
+      "sec2_index": 439,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 149,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[145]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[150]",
+      "sec1_index": 448,
+      "sec2_index": 453,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 150,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[20]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[25]",
+      "sec1_index": 96,
+      "sec2_index": 101,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 151,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[41]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[43]",
+      "sec1_index": 117,
+      "sec2_index": 119,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 152,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[147]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[148]",
+      "sec1_index": 450,
+      "sec2_index": 451,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 153,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[133]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[129]",
+      "sec1_index": 209,
+      "sec2_index": 205,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 154,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[9]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[5]",
+      "sec1_index": 312,
+      "sec2_index": 308,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 155,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[135]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[137]",
+      "sec1_index": 211,
+      "sec2_index": 213,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 156,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[67]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[62]",
+      "sec1_index": 143,
+      "sec2_index": 138,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 157,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[83]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[84]",
+      "sec1_index": 386,
+      "sec2_index": 387,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 158,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[37]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[36]",
+      "sec1_index": 113,
+      "sec2_index": 112,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 159,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[83]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[88]",
+      "sec1_index": 386,
+      "sec2_index": 391,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 160,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[137]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[135]",
+      "sec1_index": 440,
+      "sec2_index": 438,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 161,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[37]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[41]",
+      "sec1_index": 113,
+      "sec2_index": 117,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 162,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[109]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[113]",
+      "sec1_index": 185,
+      "sec2_index": 189,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 163,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[135]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[132]",
+      "sec1_index": 211,
+      "sec2_index": 208,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 164,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[27]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[25]",
+      "sec1_index": 330,
+      "sec2_index": 328,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 165,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[125]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[126]",
+      "sec1_index": 201,
+      "sec2_index": 202,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 166,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[145]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[142]",
+      "sec1_index": 221,
+      "sec2_index": 218,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 167,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[73]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[77]",
+      "sec1_index": 376,
+      "sec2_index": 380,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 168,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[3]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[2]",
+      "sec1_index": 306,
+      "sec2_index": 305,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 169,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[132]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[127]",
+      "sec1_index": 435,
+      "sec2_index": 430,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 170,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[53]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[50]",
+      "sec1_index": 129,
+      "sec2_index": 126,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 171,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[135]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[133]",
+      "sec1_index": 211,
+      "sec2_index": 209,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 172,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[54]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[58]",
+      "sec1_index": 130,
+      "sec2_index": 134,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 173,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[79]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[74]",
+      "sec1_index": 155,
+      "sec2_index": 150,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 174,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[144]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[149]",
+      "sec1_index": 220,
+      "sec2_index": 225,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 175,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[107]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[108]",
+      "sec1_index": 183,
+      "sec2_index": 184,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 176,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[104]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[99]",
+      "sec1_index": 180,
+      "sec2_index": 175,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 177,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[107]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[110]",
+      "sec1_index": 410,
+      "sec2_index": 413,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 178,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[128]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[127]",
+      "sec1_index": 204,
+      "sec2_index": 203,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 179,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[47]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[49]",
+      "sec1_index": 123,
+      "sec2_index": 125,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 180,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[141]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[140]",
+      "sec1_index": 217,
+      "sec2_index": 216,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 181,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[1]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[3]",
+      "sec1_index": 77,
+      "sec2_index": 79,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 182,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[66]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[61]",
+      "sec1_index": 142,
+      "sec2_index": 137,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 183,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[82]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[85]",
+      "sec1_index": 158,
+      "sec2_index": 161,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 184,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[131]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[133]",
+      "sec1_index": 434,
+      "sec2_index": 436,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 185,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[136]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[135]",
+      "sec1_index": 439,
+      "sec2_index": 438,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 186,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[57]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[55]",
+      "sec1_index": 133,
+      "sec2_index": 131,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 187,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[76]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[80]",
+      "sec1_index": 152,
+      "sec2_index": 156,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 188,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[18]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[19]",
+      "sec1_index": 94,
+      "sec2_index": 95,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 189,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[147]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[144]",
+      "sec1_index": 450,
+      "sec2_index": 447,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 190,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[69]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[66]",
+      "sec1_index": 372,
+      "sec2_index": 369,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 191,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[21]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[16]",
+      "sec1_index": 97,
+      "sec2_index": 92,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 192,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[35]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[34]",
+      "sec1_index": 338,
+      "sec2_index": 337,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 193,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[32]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[28]",
+      "sec1_index": 335,
+      "sec2_index": 331,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 194,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[127]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[125]",
+      "sec1_index": 203,
+      "sec2_index": 201,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 195,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[30]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[34]",
+      "sec1_index": 333,
+      "sec2_index": 337,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 196,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[57]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[62]",
+      "sec1_index": 360,
+      "sec2_index": 365,
+      "index_distance": 5
+    },
+    {
+      "pair_idx": 197,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[79]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[75]",
+      "sec1_index": 155,
+      "sec2_index": 151,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 198,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[83]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[80]",
+      "sec1_index": 159,
+      "sec2_index": 156,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 199,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[60]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[59]",
+      "sec1_index": 363,
+      "sec2_index": 362,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 200,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[91]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[92]",
+      "sec1_index": 167,
+      "sec2_index": 168,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 201,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[59]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[55]",
+      "sec1_index": 362,
+      "sec2_index": 358,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 202,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[136]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[133]",
+      "sec1_index": 212,
+      "sec2_index": 209,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 203,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[55]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[57]",
+      "sec1_index": 131,
+      "sec2_index": 133,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 204,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[19]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[22]",
+      "sec1_index": 95,
+      "sec2_index": 98,
+      "index_distance": 3
+    },
+    {
+      "pair_idx": 205,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[113]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[109]",
+      "sec1_index": 189,
+      "sec2_index": 185,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 206,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[84]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[85]",
+      "sec1_index": 387,
+      "sec2_index": 388,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 207,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[5]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[1]",
+      "sec1_index": 308,
+      "sec2_index": 304,
+      "index_distance": 4
+    },
+    {
+      "pair_idx": 208,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[114]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[113]",
+      "sec1_index": 190,
+      "sec2_index": 189,
+      "index_distance": 1
+    },
+    {
+      "pair_idx": 209,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[98]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[100]",
+      "sec1_index": 174,
+      "sec2_index": 176,
+      "index_distance": 2
+    },
+    {
+      "pair_idx": 210,
+      "group": "close",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[17]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[12]",
+      "sec1_index": 320,
+      "sec2_index": 315,
+      "index_distance": 5
+    }
+  ],
+  "far_pairs": [
+    {
+      "pair_idx": 211,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[35]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[142]",
+      "sec1_index": 111,
+      "sec2_index": 218,
+      "index_distance": 107
+    },
+    {
+      "pair_idx": 212,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[28]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[109]",
+      "sec1_index": 331,
+      "sec2_index": 412,
+      "index_distance": 81
+    },
+    {
+      "pair_idx": 213,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[53]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[123]",
+      "sec1_index": 356,
+      "sec2_index": 426,
+      "index_distance": 70
+    },
+    {
+      "pair_idx": 214,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[18]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[14]",
+      "sec1_index": 321,
+      "sec2_index": 90,
+      "index_distance": 231
+    },
+    {
+      "pair_idx": 215,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[59]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[133]",
+      "sec1_index": 135,
+      "sec2_index": 209,
+      "index_distance": 74
+    },
+    {
+      "pair_idx": 216,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[91]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[146]",
+      "sec1_index": 167,
+      "sec2_index": 449,
+      "index_distance": 282
+    },
+    {
+      "pair_idx": 217,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[135]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[19]",
+      "sec1_index": 211,
+      "sec2_index": 95,
+      "index_distance": 116
+    },
+    {
+      "pair_idx": 218,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[55]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[71]",
+      "sec1_index": 131,
+      "sec2_index": 374,
+      "index_distance": 243
+    },
+    {
+      "pair_idx": 219,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[25]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[9]",
+      "sec1_index": 328,
+      "sec2_index": 312,
+      "index_distance": 16
+    },
+    {
+      "pair_idx": 220,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[72]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[110]",
+      "sec1_index": 375,
+      "sec2_index": 413,
+      "index_distance": 38
+    },
+    {
+      "pair_idx": 221,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[59]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[46]",
+      "sec1_index": 135,
+      "sec2_index": 349,
+      "index_distance": 214
+    },
+    {
+      "pair_idx": 222,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[144]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[97]",
+      "sec1_index": 447,
+      "sec2_index": 173,
+      "index_distance": 274
+    },
+    {
+      "pair_idx": 223,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[130]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[22]",
+      "sec1_index": 206,
+      "sec2_index": 98,
+      "index_distance": 108
+    },
+    {
+      "pair_idx": 224,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[72]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[0]",
+      "sec1_index": 375,
+      "sec2_index": 76,
+      "index_distance": 299
+    },
+    {
+      "pair_idx": 225,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[115]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[124]",
+      "sec1_index": 418,
+      "sec2_index": 427,
+      "index_distance": 9
+    },
+    {
+      "pair_idx": 226,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[100]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[35]",
+      "sec1_index": 176,
+      "sec2_index": 338,
+      "index_distance": 162
+    },
+    {
+      "pair_idx": 227,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[69]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[35]",
+      "sec1_index": 372,
+      "sec2_index": 111,
+      "index_distance": 261
+    },
+    {
+      "pair_idx": 228,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[18]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[9]",
+      "sec1_index": 321,
+      "sec2_index": 312,
+      "index_distance": 9
+    },
+    {
+      "pair_idx": 229,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[63]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[2]",
+      "sec1_index": 139,
+      "sec2_index": 305,
+      "index_distance": 166
+    },
+    {
+      "pair_idx": 230,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[108]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[7]",
+      "sec1_index": 411,
+      "sec2_index": 310,
+      "index_distance": 101
+    },
+    {
+      "pair_idx": 231,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[58]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[16]",
+      "sec1_index": 361,
+      "sec2_index": 319,
+      "index_distance": 42
+    },
+    {
+      "pair_idx": 232,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[55]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[0]",
+      "sec1_index": 358,
+      "sec2_index": 303,
+      "index_distance": 55
+    },
+    {
+      "pair_idx": 233,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[132]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[65]",
+      "sec1_index": 435,
+      "sec2_index": 141,
+      "index_distance": 294
+    },
+    {
+      "pair_idx": 234,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[98]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[64]",
+      "sec1_index": 174,
+      "sec2_index": 367,
+      "index_distance": 193
+    },
+    {
+      "pair_idx": 235,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[43]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[89]",
+      "sec1_index": 346,
+      "sec2_index": 165,
+      "index_distance": 181
+    },
+    {
+      "pair_idx": 236,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[140]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[3]",
+      "sec1_index": 443,
+      "sec2_index": 306,
+      "index_distance": 137
+    },
+    {
+      "pair_idx": 237,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[56]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[129]",
+      "sec1_index": 359,
+      "sec2_index": 432,
+      "index_distance": 73
+    },
+    {
+      "pair_idx": 238,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[0]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[4]",
+      "sec1_index": 76,
+      "sec2_index": 307,
+      "index_distance": 231
+    },
+    {
+      "pair_idx": 239,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[146]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[107]",
+      "sec1_index": 222,
+      "sec2_index": 183,
+      "index_distance": 39
+    },
+    {
+      "pair_idx": 240,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[69]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[145]",
+      "sec1_index": 372,
+      "sec2_index": 448,
+      "index_distance": 76
+    },
+    {
+      "pair_idx": 241,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[13]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[87]",
+      "sec1_index": 316,
+      "sec2_index": 390,
+      "index_distance": 74
+    },
+    {
+      "pair_idx": 242,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[109]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[110]",
+      "sec1_index": 185,
+      "sec2_index": 413,
+      "index_distance": 228
+    },
+    {
+      "pair_idx": 243,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[91]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[86]",
+      "sec1_index": 394,
+      "sec2_index": 162,
+      "index_distance": 232
+    },
+    {
+      "pair_idx": 244,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[43]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[145]",
+      "sec1_index": 119,
+      "sec2_index": 221,
+      "index_distance": 102
+    },
+    {
+      "pair_idx": 245,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[112]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[20]",
+      "sec1_index": 415,
+      "sec2_index": 323,
+      "index_distance": 92
+    },
+    {
+      "pair_idx": 246,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[47]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[120]",
+      "sec1_index": 123,
+      "sec2_index": 196,
+      "index_distance": 73
+    },
+    {
+      "pair_idx": 247,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[7]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[115]",
+      "sec1_index": 310,
+      "sec2_index": 191,
+      "index_distance": 119
+    },
+    {
+      "pair_idx": 248,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[101]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[75]",
+      "sec1_index": 177,
+      "sec2_index": 151,
+      "index_distance": 26
+    },
+    {
+      "pair_idx": 249,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[12]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[23]",
+      "sec1_index": 88,
+      "sec2_index": 99,
+      "index_distance": 11
+    },
+    {
+      "pair_idx": 250,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[125]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[92]",
+      "sec1_index": 201,
+      "sec2_index": 395,
+      "index_distance": 194
+    },
+    {
+      "pair_idx": 251,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[37]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[82]",
+      "sec1_index": 113,
+      "sec2_index": 385,
+      "index_distance": 272
+    },
+    {
+      "pair_idx": 252,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[61]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[143]",
+      "sec1_index": 364,
+      "sec2_index": 446,
+      "index_distance": 82
+    },
+    {
+      "pair_idx": 253,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[99]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[45]",
+      "sec1_index": 175,
+      "sec2_index": 348,
+      "index_distance": 173
+    },
+    {
+      "pair_idx": 254,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[102]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[53]",
+      "sec1_index": 405,
+      "sec2_index": 356,
+      "index_distance": 49
+    },
+    {
+      "pair_idx": 255,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[124]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[75]",
+      "sec1_index": 200,
+      "sec2_index": 151,
+      "index_distance": 49
+    },
+    {
+      "pair_idx": 256,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[2]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[54]",
+      "sec1_index": 78,
+      "sec2_index": 130,
+      "index_distance": 52
+    },
+    {
+      "pair_idx": 257,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[66]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[112]",
+      "sec1_index": 369,
+      "sec2_index": 188,
+      "index_distance": 181
+    },
+    {
+      "pair_idx": 258,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[90]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[114]",
+      "sec1_index": 166,
+      "sec2_index": 417,
+      "index_distance": 251
+    },
+    {
+      "pair_idx": 259,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[86]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[25]",
+      "sec1_index": 389,
+      "sec2_index": 101,
+      "index_distance": 288
+    },
+    {
+      "pair_idx": 260,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[134]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[127]",
+      "sec1_index": 437,
+      "sec2_index": 203,
+      "index_distance": 234
+    },
+    {
+      "pair_idx": 261,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[62]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[82]",
+      "sec1_index": 138,
+      "sec2_index": 385,
+      "index_distance": 247
+    },
+    {
+      "pair_idx": 262,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[68]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[86]",
+      "sec1_index": 144,
+      "sec2_index": 389,
+      "index_distance": 245
+    },
+    {
+      "pair_idx": 263,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[120]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[135]",
+      "sec1_index": 423,
+      "sec2_index": 438,
+      "index_distance": 15
+    },
+    {
+      "pair_idx": 264,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[11]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[75]",
+      "sec1_index": 314,
+      "sec2_index": 378,
+      "index_distance": 64
+    },
+    {
+      "pair_idx": 265,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[107]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[67]",
+      "sec1_index": 410,
+      "sec2_index": 370,
+      "index_distance": 40
+    },
+    {
+      "pair_idx": 266,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[129]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[77]",
+      "sec1_index": 432,
+      "sec2_index": 380,
+      "index_distance": 52
+    },
+    {
+      "pair_idx": 267,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[81]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[92]",
+      "sec1_index": 157,
+      "sec2_index": 395,
+      "index_distance": 238
+    },
+    {
+      "pair_idx": 268,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[79]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[132]",
+      "sec1_index": 382,
+      "sec2_index": 208,
+      "index_distance": 174
+    },
+    {
+      "pair_idx": 269,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[126]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[141]",
+      "sec1_index": 202,
+      "sec2_index": 217,
+      "index_distance": 15
+    },
+    {
+      "pair_idx": 270,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[115]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[97]",
+      "sec1_index": 418,
+      "sec2_index": 400,
+      "index_distance": 18
+    },
+    {
+      "pair_idx": 271,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[122]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[140]",
+      "sec1_index": 198,
+      "sec2_index": 216,
+      "index_distance": 18
+    },
+    {
+      "pair_idx": 272,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[74]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[39]",
+      "sec1_index": 377,
+      "sec2_index": 115,
+      "index_distance": 262
+    },
+    {
+      "pair_idx": 273,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[146]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[120]",
+      "sec1_index": 222,
+      "sec2_index": 196,
+      "index_distance": 26
+    },
+    {
+      "pair_idx": 274,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[139]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[20]",
+      "sec1_index": 215,
+      "sec2_index": 323,
+      "index_distance": 108
+    },
+    {
+      "pair_idx": 275,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[12]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[125]",
+      "sec1_index": 315,
+      "sec2_index": 428,
+      "index_distance": 113
+    },
+    {
+      "pair_idx": 276,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[41]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[70]",
+      "sec1_index": 117,
+      "sec2_index": 146,
+      "index_distance": 29
+    },
+    {
+      "pair_idx": 277,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[77]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[118]",
+      "sec1_index": 153,
+      "sec2_index": 194,
+      "index_distance": 41
+    },
+    {
+      "pair_idx": 278,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[45]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[78]",
+      "sec1_index": 348,
+      "sec2_index": 154,
+      "index_distance": 194
+    },
+    {
+      "pair_idx": 279,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[109]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[32]",
+      "sec1_index": 185,
+      "sec2_index": 108,
+      "index_distance": 77
+    },
+    {
+      "pair_idx": 280,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[18]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[126]",
+      "sec1_index": 321,
+      "sec2_index": 429,
+      "index_distance": 108
+    },
+    {
+      "pair_idx": 281,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[87]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[61]",
+      "sec1_index": 390,
+      "sec2_index": 364,
+      "index_distance": 26
+    },
+    {
+      "pair_idx": 282,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[31]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[105]",
+      "sec1_index": 107,
+      "sec2_index": 181,
+      "index_distance": 74
+    },
+    {
+      "pair_idx": 283,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[64]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[48]",
+      "sec1_index": 367,
+      "sec2_index": 351,
+      "index_distance": 16
+    },
+    {
+      "pair_idx": 284,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[148]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[10]",
+      "sec1_index": 451,
+      "sec2_index": 86,
+      "index_distance": 365
+    },
+    {
+      "pair_idx": 285,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[143]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[43]",
+      "sec1_index": 446,
+      "sec2_index": 346,
+      "index_distance": 100
+    },
+    {
+      "pair_idx": 286,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[93]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[3]",
+      "sec1_index": 396,
+      "sec2_index": 79,
+      "index_distance": 317
+    },
+    {
+      "pair_idx": 287,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[29]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[1]",
+      "sec1_index": 332,
+      "sec2_index": 304,
+      "index_distance": 28
+    },
+    {
+      "pair_idx": 288,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[48]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[63]",
+      "sec1_index": 351,
+      "sec2_index": 366,
+      "index_distance": 15
+    },
+    {
+      "pair_idx": 289,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[112]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[98]",
+      "sec1_index": 188,
+      "sec2_index": 401,
+      "index_distance": 213
+    },
+    {
+      "pair_idx": 290,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[112]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[139]",
+      "sec1_index": 188,
+      "sec2_index": 215,
+      "index_distance": 27
+    },
+    {
+      "pair_idx": 291,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[72]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[97]",
+      "sec1_index": 375,
+      "sec2_index": 400,
+      "index_distance": 25
+    },
+    {
+      "pair_idx": 292,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[14]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[48]",
+      "sec1_index": 90,
+      "sec2_index": 351,
+      "index_distance": 261
+    },
+    {
+      "pair_idx": 293,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[21]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[56]",
+      "sec1_index": 324,
+      "sec2_index": 359,
+      "index_distance": 35
+    },
+    {
+      "pair_idx": 294,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[84]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[88]",
+      "sec1_index": 160,
+      "sec2_index": 391,
+      "index_distance": 231
+    },
+    {
+      "pair_idx": 295,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[65]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[122]",
+      "sec1_index": 141,
+      "sec2_index": 425,
+      "index_distance": 284
+    },
+    {
+      "pair_idx": 296,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[13]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[50]",
+      "sec1_index": 89,
+      "sec2_index": 353,
+      "index_distance": 264
+    },
+    {
+      "pair_idx": 297,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[137]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[13]",
+      "sec1_index": 440,
+      "sec2_index": 89,
+      "index_distance": 351
+    },
+    {
+      "pair_idx": 298,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[42]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[68]",
+      "sec1_index": 118,
+      "sec2_index": 371,
+      "index_distance": 253
+    },
+    {
+      "pair_idx": 299,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[69]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[85]",
+      "sec1_index": 145,
+      "sec2_index": 388,
+      "index_distance": 243
+    },
+    {
+      "pair_idx": 300,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[93]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[25]",
+      "sec1_index": 169,
+      "sec2_index": 101,
+      "index_distance": 68
+    },
+    {
+      "pair_idx": 301,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[133]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[43]",
+      "sec1_index": 209,
+      "sec2_index": 346,
+      "index_distance": 137
+    },
+    {
+      "pair_idx": 302,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[16]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[108]",
+      "sec1_index": 319,
+      "sec2_index": 184,
+      "index_distance": 135
+    },
+    {
+      "pair_idx": 303,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[81]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[16]",
+      "sec1_index": 384,
+      "sec2_index": 319,
+      "index_distance": 65
+    },
+    {
+      "pair_idx": 304,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[21]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[43]",
+      "sec1_index": 324,
+      "sec2_index": 346,
+      "index_distance": 22
+    },
+    {
+      "pair_idx": 305,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[142]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[64]",
+      "sec1_index": 218,
+      "sec2_index": 367,
+      "index_distance": 149
+    },
+    {
+      "pair_idx": 306,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[129]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[41]",
+      "sec1_index": 205,
+      "sec2_index": 117,
+      "index_distance": 88
+    },
+    {
+      "pair_idx": 307,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[89]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[9]",
+      "sec1_index": 392,
+      "sec2_index": 85,
+      "index_distance": 307
+    },
+    {
+      "pair_idx": 308,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[125]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[26]",
+      "sec1_index": 428,
+      "sec2_index": 102,
+      "index_distance": 326
+    },
+    {
+      "pair_idx": 309,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[28]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[114]",
+      "sec1_index": 331,
+      "sec2_index": 190,
+      "index_distance": 141
+    },
+    {
+      "pair_idx": 310,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[35]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[20]",
+      "sec1_index": 111,
+      "sec2_index": 96,
+      "index_distance": 15
+    },
+    {
+      "pair_idx": 311,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[15]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[126]",
+      "sec1_index": 91,
+      "sec2_index": 202,
+      "index_distance": 111
+    },
+    {
+      "pair_idx": 312,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[102]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[10]",
+      "sec1_index": 178,
+      "sec2_index": 86,
+      "index_distance": 92
+    },
+    {
+      "pair_idx": 313,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[78]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[122]",
+      "sec1_index": 154,
+      "sec2_index": 198,
+      "index_distance": 44
+    },
+    {
+      "pair_idx": 314,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[64]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[91]",
+      "sec1_index": 140,
+      "sec2_index": 394,
+      "index_distance": 254
+    },
+    {
+      "pair_idx": 315,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[58]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[137]",
+      "sec1_index": 134,
+      "sec2_index": 440,
+      "index_distance": 306
+    },
+    {
+      "pair_idx": 316,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[111]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[87]",
+      "sec1_index": 187,
+      "sec2_index": 390,
+      "index_distance": 203
+    },
+    {
+      "pair_idx": 317,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[131]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[37]",
+      "sec1_index": 207,
+      "sec2_index": 340,
+      "index_distance": 133
+    },
+    {
+      "pair_idx": 318,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[85]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[58]",
+      "sec1_index": 161,
+      "sec2_index": 134,
+      "index_distance": 27
+    },
+    {
+      "pair_idx": 319,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[83]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[8]",
+      "sec1_index": 159,
+      "sec2_index": 311,
+      "index_distance": 152
+    },
+    {
+      "pair_idx": 320,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[55]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[145]",
+      "sec1_index": 131,
+      "sec2_index": 448,
+      "index_distance": 317
+    },
+    {
+      "pair_idx": 321,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[13]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[8]",
+      "sec1_index": 89,
+      "sec2_index": 311,
+      "index_distance": 222
+    },
+    {
+      "pair_idx": 322,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[143]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[41]",
+      "sec1_index": 446,
+      "sec2_index": 344,
+      "index_distance": 102
+    },
+    {
+      "pair_idx": 323,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[52]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[101]",
+      "sec1_index": 355,
+      "sec2_index": 177,
+      "index_distance": 178
+    },
+    {
+      "pair_idx": 324,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[38]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[124]",
+      "sec1_index": 114,
+      "sec2_index": 200,
+      "index_distance": 86
+    },
+    {
+      "pair_idx": 325,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[52]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[3]",
+      "sec1_index": 128,
+      "sec2_index": 306,
+      "index_distance": 178
+    },
+    {
+      "pair_idx": 326,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[61]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[138]",
+      "sec1_index": 137,
+      "sec2_index": 441,
+      "index_distance": 304
+    },
+    {
+      "pair_idx": 327,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[21]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[26]",
+      "sec1_index": 97,
+      "sec2_index": 329,
+      "index_distance": 232
+    },
+    {
+      "pair_idx": 328,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[121]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[68]",
+      "sec1_index": 424,
+      "sec2_index": 371,
+      "index_distance": 53
+    },
+    {
+      "pair_idx": 329,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[38]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[35]",
+      "sec1_index": 341,
+      "sec2_index": 111,
+      "index_distance": 230
+    },
+    {
+      "pair_idx": 330,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[108]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[23]",
+      "sec1_index": 411,
+      "sec2_index": 326,
+      "index_distance": 85
+    },
+    {
+      "pair_idx": 331,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[6]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[64]",
+      "sec1_index": 82,
+      "sec2_index": 367,
+      "index_distance": 285
+    },
+    {
+      "pair_idx": 332,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[99]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[54]",
+      "sec1_index": 402,
+      "sec2_index": 130,
+      "index_distance": 272
+    },
+    {
+      "pair_idx": 333,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[70]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[34]",
+      "sec1_index": 373,
+      "sec2_index": 337,
+      "index_distance": 36
+    },
+    {
+      "pair_idx": 334,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[84]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[78]",
+      "sec1_index": 387,
+      "sec2_index": 154,
+      "index_distance": 233
+    },
+    {
+      "pair_idx": 335,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[71]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[90]",
+      "sec1_index": 374,
+      "sec2_index": 166,
+      "index_distance": 208
+    },
+    {
+      "pair_idx": 336,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[116]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[138]",
+      "sec1_index": 419,
+      "sec2_index": 214,
+      "index_distance": 205
+    },
+    {
+      "pair_idx": 337,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[124]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[96]",
+      "sec1_index": 427,
+      "sec2_index": 399,
+      "index_distance": 28
+    },
+    {
+      "pair_idx": 338,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[87]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[72]",
+      "sec1_index": 390,
+      "sec2_index": 375,
+      "index_distance": 15
+    },
+    {
+      "pair_idx": 339,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[137]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[14]",
+      "sec1_index": 213,
+      "sec2_index": 317,
+      "index_distance": 104
+    },
+    {
+      "pair_idx": 340,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[125]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[44]",
+      "sec1_index": 201,
+      "sec2_index": 120,
+      "index_distance": 81
+    },
+    {
+      "pair_idx": 341,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[142]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[79]",
+      "sec1_index": 218,
+      "sec2_index": 382,
+      "index_distance": 164
+    },
+    {
+      "pair_idx": 342,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[124]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[86]",
+      "sec1_index": 200,
+      "sec2_index": 389,
+      "index_distance": 189
+    },
+    {
+      "pair_idx": 343,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[140]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[43]",
+      "sec1_index": 443,
+      "sec2_index": 346,
+      "index_distance": 97
+    },
+    {
+      "pair_idx": 344,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[21]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[14]",
+      "sec1_index": 324,
+      "sec2_index": 90,
+      "index_distance": 234
+    },
+    {
+      "pair_idx": 345,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[102]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[15]",
+      "sec1_index": 405,
+      "sec2_index": 318,
+      "index_distance": 87
+    },
+    {
+      "pair_idx": 346,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[93]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[98]",
+      "sec1_index": 169,
+      "sec2_index": 401,
+      "index_distance": 232
+    },
+    {
+      "pair_idx": 347,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[108]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[30]",
+      "sec1_index": 184,
+      "sec2_index": 333,
+      "index_distance": 149
+    },
+    {
+      "pair_idx": 348,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[132]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[23]",
+      "sec1_index": 208,
+      "sec2_index": 326,
+      "index_distance": 118
+    },
+    {
+      "pair_idx": 349,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[133]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[5]",
+      "sec1_index": 436,
+      "sec2_index": 81,
+      "index_distance": 355
+    },
+    {
+      "pair_idx": 350,
+      "group": "far",
+      "sec1": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe8aaf338e0>.dend[113]",
+      "sec2": "<GoC.Golgi2020_morpho_1.Golgi_morpho_1 object at 0x7fe88eb8b190>.dend[97]",
+      "sec1_index": 416,
+      "sec2_index": 173,
+      "index_distance": 243
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{   
+    "GrC":
+    {
+        "soma sections": 1,
+        "dendritic sections": 4,
+        "dendritic branch points": 0,
+        "dendritic tips": 4,
+        "primary dendrites": 4,
+        "Total dendritic length(μm)": 60.0,
+        "Mean section length(μm)": 15.0,
+        "Max section length(μm)": 15.0,
+        "Max branch order": 0,
+        "Mean branch order": 0.00,
+        "Structure Complexity": 30.00,
+        "Channels (number of sections containing each)":
+        {
+        "GRC_CA": 4,
+        "Kca1_1": 4,
+        "Kv1_1": 4,
+        "cdp5_CR": 4,
+        "Total channel insertions": 16
+        },
+        "Channel Complexity": 120.00
+    },
+    "BC":
+    {
+        "soma sections": 1,
+        "dendritic sections": 43,
+        "dendritic branch points": 18,
+        "dendritic tips": 25,
+        "primary dendrites": 7,
+        "Total dendritic length(μm)": 1257.8,
+        "Mean section length(μm)": 29.3,
+        "Max section length(μm)": 109.0,
+        "Max branch order": 6,
+        "Mean branch order": 2.42,
+        "Structure Complexity": 10298.97,
+        "Channels (number of sections containing each)":
+        {
+        "Cav2_1": 42,
+        "HCN1": 1,
+        "Kca1_1": 42,
+        "Kv1_1": 43,
+        "Kv3_4": 1,
+        "Nav1_6": 1,
+        "cdp5": 43,
+        "Total channel insertions": 173
+        },
+        "Channel Complexity": 9989.64
+    },
+    "GoC":
+    {
+        "soma sections": 2,
+        "dendritic sections": 302,
+        "dendritic branch points": 140,
+        "dendritic tips": 162,
+        "primary dendrites": 22,
+        "Total dendritic length(μm)": 6321.3,
+        "Mean section length(μm)": 20.9,
+        "Max section length(μm)": 78.2,
+        "Max branch order": 11,
+        "Mean branch order": 4.54,
+        "Structure Complexity": 117569.62,
+        "Channels (number of sections containing each)":
+        {
+        "Cav2_3": 89,
+        "Cav3_1": 89,
+        "GRC_CA": 62,
+        "Kca1_1": 151,
+        "Kca2_2": 151,
+        "Nav1_6": 151,
+        "cdp5StCmod": 151,
+        "Total channel insertions": 844
+        },
+        "Channel Complexity": 93643.00
+    },
+    "SC":
+    {
+        "soma sections": 1,
+        "dendritic sections": 104,
+        "dendritic branch points": 50,
+        "dendritic tips": 54,
+        "primary dendrites": 4,
+        "Total dendritic length(μm)": 1162.8,
+        "Mean section length(μm)": 11.2,
+        "Max section length(μm)": 50.4,
+        "Max branch order": 9,
+        "Mean branch order": 4.38,
+        "Structure Complexity": 23935.15,
+        "Channels (number of sections containing each)":
+        {
+        "Cav2_1": 104,
+        "Cav3_2": 14,
+        "Cav3_3": 14,
+        "Kca1_1": 104,
+        "Kca2_2": 104,
+        "Kv1_1": 104,
+        "Kv4_3": 14,
+        "cdp5StCmod": 104,
+        "Total channel insertions": 562
+        },
+        "Channel Complexity": 20031.87
+    },
+    "IO":
+    {
+        "soma sections": 6,
+        "dendritic sections": 25,
+        "dendritic branch points": 9,
+        "dendritic tips": 16,
+        "primary dendrites": 6,
+        "Total dendritic length(μm)": 2534.7,
+        "Mean section length(μm)": 101.4,
+        "Max section length(μm)": 271.9,
+        "Max branch order": 3,
+        "Mean branch order": 1.48,
+        "Structure Complexity": 11168.40,
+        "Channels (number of sections containing each)":
+        {
+        "cah": 25,
+        "kca": 25,
+        "kkk": 25,
+        "Total channel insertions": 75
+        },
+        "Channel Complexity": 11614.24
+    },
+    "DCN":
+    {
+        "soma sections": 1,
+        "dendritic sections": 486,
+        "dendritic branch points": 58,
+        "dendritic tips": 64,
+        "primary dendrites": 5,
+        "Total dendritic length(μm)": 3769.8,
+        "Mean section length(μm)": 7.8,
+        "Max section length(μm)": 17.1,
+        "Max branch order": 35,
+        "Mean branch order": 13.37,
+        "Structure Complexity": 1102943.89,
+        "Channels (number of sections containing each)":
+        {
+        "CaConc": 485,
+        "CaHVA": 485,
+        "CaLVA": 485,
+        "CalConc": 485,
+        "NaF": 84,
+        "SK": 485,
+        "TNC": 84,
+        "fKdr": 84,
+        "h": 485,
+        "sKdr": 84,
+        "Total channel insertions": 3246
+        },
+        "Channel Complexity": 402420.90
+    },
+    "PC":
+    {
+        "soma sections": 1,
+        "dendritic sections": 460,
+        "dendritic branch points": 228,
+        "dendritic tips": 229,
+        "primary dendrites": 1,
+        "Total dendritic length(μm)": 4444.4,
+        "Mean section length(μm)": 9.7,
+        "Max section length(μm)": 59.1,
+        "Max branch order": 24,
+        "Mean branch order": 10.61,
+        "Structure Complexity": 808755.95,
+        "Channels (number of sections containing each)":
+        {
+        "Cav2_1": 460,
+        "Cav3_1": 26,
+        "Cav3_2": 26,
+        "Cav3_3": 460,
+        "HCN1_pc": 460,
+        "Kca1_1": 460,
+        "Kca2_2": 460,
+        "Kca3_1": 26,
+        "Kir2_3": 26,
+        "Kv1_1": 26,
+        "Kv1_5": 26,
+        "Kv3_3": 460,
+        "Kv4_3": 460,
+        "Nav1_6": 1,
+        "cdp5_CAM": 460,
+        "Total channel insertions": 3837
+        },
+        "Channel Complexity": 529806.44
+    }
+}
